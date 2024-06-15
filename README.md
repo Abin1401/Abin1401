@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Abin1401
+- 👀 I’m interested in data scientist and analyst
+- 🌱 I’m currently learning data scientist and analyst
